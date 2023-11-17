@@ -4,7 +4,7 @@
 <a href=https://github.com/pyrogram/pyrogram>Pyrogram</a>
 
 # Pyro-Self
-By : <a href=https://t.me/Salazar>@Salazar</a> & <a href=https://t.me/Sigaris>@Sigaris</a>
+By : <a href=https://t.me/S_S_14_R>H3X</a>
 
 ### Requirements
 - Python 3.6 
